@@ -86,13 +86,13 @@ This structured approach ensured that the HR Analytics Dashboard provided action
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![Image](https://github.com/user-attachments/assets/ee768c12-6f38-4ead-ab56-2b22354b67ed)
 
  
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Image](https://github.com/user-attachments/assets/ee768c12-6f38-4ead-ab56-2b22354b67ed)
 
 # Insights
 
